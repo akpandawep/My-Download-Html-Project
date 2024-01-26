@@ -41,7 +41,7 @@ a:hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
     text-align: center;
-    margin: 2%;
+    margin: 10px;
 }
 .footer {
     position: fixed;
